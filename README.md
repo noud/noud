@@ -40,8 +40,7 @@
 
 - [Meteor](https://www.meteor.com)JS
     - [Simple todos](https://github.com/noud/meteor-simple-todos)
-- [jts-sql](https://github.com/noud/jts-sql)
-- [jts-sql-js](https://github.com/noud/jts-sql-js)
+- [jts-sql](https://github.com/noud/jts-sql) for [jts-sql-js](https://github.com/noud/jts-sql-js)
 
 #### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net) back ends
 
