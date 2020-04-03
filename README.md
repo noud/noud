@@ -36,18 +36,14 @@
 
 ### [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) back ends
 
-##### [Meteor](https://www.meteor.com)JS
+#### [Node.js](https://nodejs.org/en) back end
 
-- [Simple todos](https://github.com/noud/meteor-simple-todos)
-
-#### [Node.js](https://nodejs.org/en)
-
+- [Meteor](https://www.meteor.com)JS
+    - [Simple todos](https://github.com/noud/meteor-simple-todos)
 - [jts-sql](https://github.com/noud/jts-sql)
 - [jts-sql-js](https://github.com/noud/jts-sql-js)
 
-#### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net)
-
-- [Gripp API](https://github.com/noud/gripp_api)
+#### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net) back ends
 
 ##### [Laravel](https://laravel.com)
 
