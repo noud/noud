@@ -2,7 +2,7 @@
 
 ## Full stack
 
-### [JavaScript](https://nl.wikipedia.org/wiki/JavaScript) front end
+### [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) front end
 
 #### [Gatsby](https://www.gatsbyjs.org)
 
