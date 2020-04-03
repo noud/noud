@@ -1,5 +1,11 @@
 # Repositories index
 
+## Most current and expert skills
+
+- [React front end](https://github.com/noud/frontend)
+- [GraphQL](https://graphql.org)
+- [SaaS Laravel back end](https://github.com/noud/saas)
+
 ## Full stack
 
 ### [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) front end
@@ -94,7 +100,7 @@
 
 ### OS Linux and Unix
 
-- [WiFi Realtek 8192EU for Linux Driver](https://github.com/noud/rtl8192EU_WiFi_linux)
+- [WiFi Realtek 8192EU Linux Driver](https://github.com/noud/rtl8192EU_WiFi_linux)
 
 ## [Legasy](https://en.wikipedia.org/wiki/Legacy)
 
@@ -104,5 +110,5 @@
 
 ### [Vue.js](https://vuejs.org) front end
 
-- [Lighthouse tutorial](https://github.com/noud/lighthouse-tutorial)
 - [Gripp API](https://github.com/noud/gripp_client_vue)
+- [Lighthouse tutorial](https://github.com/noud/lighthouse-tutorial)
