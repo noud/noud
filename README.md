@@ -8,14 +8,14 @@
 
 ## Full stack
 
-### [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) front end
+### [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) front ends
 
 #### [Gatsby](https://www.gatsbyjs.org) JS framework
 
 - [Gripp API](https://github.com/noud/gripp_client_react_gatsby)
 - [Hello World](https://github.com/noud/gatsby-starter-hello-world-pandas)
 
-#### [React](https://https://reactjs.org) [front end](https://github.com/noud/frontend)
+#### [React](https://https://reactjs.org)JS [front end](https://github.com/noud/frontend)
 
 - [Apollo](https://www.apollographql.com/docs/react)
     - [generator](https://github.com/noud/react-graphql-code-generator)
@@ -24,7 +24,7 @@
 - [Redux](https://github.com/noud/gripp_client_react_redux)
 - [tic tac toe](https://github.com/noud/tic-tac-toe-react)
 
-### API protocol
+### API protocols
 
 - [GraphQL](https://graphql.org)
     - [OpenCRUD](https://www.opencrud.org) [react-admin-data-opencrud](https://github.com/noud/react-admin-data-opencrud)
@@ -34,16 +34,16 @@
     - [Gripp API](https://github.com/noud/gripp_symfony)
 - [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
 
-### [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) back end
+### [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) back ends
+
+##### [Meteor](https://www.meteor.com)JS
+
+- [Simple todos](https://github.com/noud/meteor-simple-todos)
 
 #### [Node.js](https://nodejs.org/en)
 
 - [jts-sql](https://github.com/noud/jts-sql)
 - [jts-sql-js](https://github.com/noud/jts-sql-js)
-
-##### [Meteor](https://www.meteor.com)
-
-- [Simple todos](https://github.com/noud/meteor-simple-todos)
 
 #### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net)
 
@@ -85,7 +85,7 @@
 
 - [phpbb-saml2](https://github.com/noud/phpbb-saml2)
 
-### Cloud
+### Clouds
 
 - [Amazon Web Services (AWS)](https://aws.amazon.com)
 - [Google Cloud](https://cloud.google.com/gcp)
