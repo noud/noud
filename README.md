@@ -105,11 +105,17 @@
 
 - [WiFi Realtek 8192EU Linux Driver](https://github.com/noud/rtl8192EU_WiFi_linux)
 
-## [Legasy](https://en.wikipedia.org/wiki/Legacy)
+## Alternatives
+
+### [Hack](https://hacklang.org/) on [HipHop Virtual Machine (HHVM)](https://hhvm.com/)
+
+- [getting started](https://github.com/noud/hack-hhvm-getting-started)
 
 ### [Express](https://expressjs.com) JS framework
 
 - [Hello World](https://github.com/noud/express-hello-world)
+
+## [Legasy](https://en.wikipedia.org/wiki/Legacy)
 
 ### [Vue.js](https://vuejs.org) front end
 
