@@ -3,7 +3,7 @@
 ## Most current and expert skills
 
 - [React front end](https://github.com/noud/frontend)
-- [GraphQL](https://graphql.org)
+- [GraphQL](https://graphql.org) [application programming interface (API)](https://en.wikipedia.org/wiki/Application_programming_interface)
 - [SaaS Laravel back end](https://github.com/noud/saas)
 
 ## Full stack
