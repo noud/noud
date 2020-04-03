@@ -4,20 +4,19 @@
 
 ### [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) front end
 
-#### [Gatsby](https://www.gatsbyjs.org)
+#### [Gatsby](https://www.gatsbyjs.org) JS framework
 
 - [Gripp API](https://github.com/noud/gripp_client_react_gatsby)
 - [Hello World](https://github.com/noud/gatsby-starter-hello-world-pandas)
 
-#### [React](https://https://reactjs.org)
+#### [React](https://https://reactjs.org) [front end](https://github.com/noud/frontend)
 
-- [front end](https://github.com/noud/frontend)
-    - [Apollo](https://www.apollographql.com/docs/react)
-        - [generator](https://github.com/noud/react-graphql-code-generator)
-        - [blog](https://github.com/noud/react-apollo-blog)
-    - [Admin](https://github.com/noud/gripp_client_react_admin)
-    - [Redux](https://github.com/noud/gripp_client_react_redux)
-    - [tic tac toe](https://github.com/noud/tic-tac-toe-react)
+- [Apollo](https://www.apollographql.com/docs/react)
+    - [generator](https://github.com/noud/react-graphql-code-generator)
+    - [blog](https://github.com/noud/react-apollo-blog)
+- [Admin](https://github.com/noud/gripp_client_react_admin)
+- [Redux](https://github.com/noud/gripp_client_react_redux)
+- [tic tac toe](https://github.com/noud/tic-tac-toe-react)
 
 ### API protocol
 
@@ -29,7 +28,7 @@
     - [Gripp API](https://github.com/noud/gripp_symfony)
 - [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
 
-### SaaS back end
+### [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) back end
 
 #### [Node.js](https://nodejs.org/en)
 
@@ -65,7 +64,7 @@
 - [Google Structured data](https://github.com/noud/laravel-seo-google-structured-data)
     - [Google Indexing API](https://github.com/noud/laravel-seo-google-indexing-api)
 - [Schema.org](https://github.com/noud/laravel-seo-schema-org)
-- [Slug](https://github.com/noud/https://github.com/noud/laravel-seo-slug)
+- [slug](https://github.com/noud/https://github.com/noud/laravel-seo-slug)
 
 ### Search and streaming
 
