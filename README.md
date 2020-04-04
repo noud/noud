@@ -85,6 +85,7 @@
 
 - [Moodle](https://moodle.org/?lang=en)
 - [phpBB](https://github.com/noud/sso-phpbb)
+    - [phpbb-saml2](https://github.com/noud/phpbb-saml2)
 
 ### Clouds
 
