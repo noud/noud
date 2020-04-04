@@ -76,11 +76,10 @@
 
 ### CI/CD
 
-### [version control system (VCS)](https://en.wikipedia.org/wiki/Version_control)
+### [version control system (VCS)](https://en.wikipedia.org/wiki/Version_control) [Git](https://git-scm.com)
 
-- [git](https://git-scm.com)
-    - [BitBucket](https://bitbucket.org)
-    - [GitHub](https://github.com/noud/github-error)
+- [BitBucket](https://bitbucket.org)
+- [GitHub](https://github.com/noud/github-error)
 
 ### [Single sign-on (SSO)](https://en.wikipedia.org/wiki/Single_sign-on) [SAML2](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)
 
