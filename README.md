@@ -82,9 +82,7 @@
     - [BitBucket](https://bitbucket.org)
     - [GitHub](https://github.com/noud/github-error)
 
-### [Single sign-on (SSO)](https://en.wikipedia.org/wiki/Single_sign-on)
-
-#### [SAML2](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)
+### [Single sign-on (SSO)](https://en.wikipedia.org/wiki/Single_sign-on) [SAML2](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)
 
 - [Moodle](https://moodle.org/?lang=en)
 - [phpBB](https://github.com/noud/sso-phpbb)
