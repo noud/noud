@@ -86,7 +86,8 @@
 
 #### [SAML2](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)
 
-- [phpbb-saml2](https://github.com/noud/phpbb-saml2)
+- [sso-moodle](https://moodle.org/?lang=en)
+- [sso-phpBB](https://github.com/noud/sso-phpbb)
 
 ### Clouds
 
