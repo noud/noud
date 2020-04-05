@@ -129,7 +129,7 @@
     - [UNIT4 Multivers](https://api.online.unit4.nl/V18/Documentation)
     - [Wolters Kluwer Twinfield](https://taxnl.wolterskluwer.com/software-koppelingen/partner-worden/koppelen-aan-wolters-kluwer-twinfield)
 - office APIs
-    - [Gripp](https://www.gripp.com/https://www.gripp.com/support/werken-met-de-gripp-api)
+    - [Gripp](https://www.gripp.com/support/werken-met-de-gripp-api)
     - [Zoho](https://www.zoho.com/developer/rest-api.html)
 
 ## Project management
