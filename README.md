@@ -116,9 +116,25 @@
 
 ## Alternatives
 
-### [Hack](https://hacklang.org/) on [HipHop Virtual Machine (HHVM)](https://hhvm.com/)
+### [Hack](https://hacklang.org) on [HipHop Virtual Machine (HHVM)](https://hhvm.com)
 
 - [getting started](https://github.com/noud/hack-hhvm-getting-started)
+
+## Business
+
+- eCommerce
+    - [Magento](https://magento.com/products/magento-open-source)
+    - [WooCommerce](https://woocommerce.com)
+- accounting APIs
+    - [UNIT4 Multivers](https://api.online.unit4.nl/V18/Documentation)
+    - [Wolters Kluwer Twinfield](https://taxnl.wolterskluwer.com/software-koppelingen/partner-worden/koppelen-aan-wolters-kluwer-twinfield)
+- office APIs
+    - [Gripp](https://www.gripp.com/https://www.gripp.com/support/werken-met-de-gripp-api)
+    - [Zoho](https://www.zoho.com/developer/rest-api.html)
+
+## Project management
+
+- [Redmine](https://www.redmine.org)
 
 ## [Legasy](https://en.wikipedia.org/wiki/Legacy)
 
