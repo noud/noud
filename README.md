@@ -79,10 +79,7 @@
 - [Schema.org](https://github.com/noud/laravel-seo-schema-org)
 - [slug](https://github.com/noud/https://github.com/noud/laravel-seo-slug)
 
-### Search and streaming
-
-- [Apache Kafka](https://kafka.apache.org)
-- [Elastic (ELK) stack](https://www.elastic.co)
+### [Elastic (ELK) stack](https://www.elastic.co)
 
 ### CI/CD
 
@@ -96,6 +93,22 @@
 - [Moodle](https://moodle.org/?lang=en)
 - [phpBB](https://github.com/noud/sso-phpbb)
     - [phpbb-saml2](https://github.com/noud/phpbb-saml2)
+
+## Business
+
+- eCommerce
+    - [Magento](https://magento.com/products/magento-open-source)
+    - [WooCommerce](https://woocommerce.com)
+- accounting APIs
+    - [UNIT4 Multivers](https://api.online.unit4.nl/V18/Documentation)
+    - [Wolters Kluwer Twinfield](https://taxnl.wolterskluwer.com/software-koppelingen/partner-worden/koppelen-aan-wolters-kluwer-twinfield)
+- office APIs
+    - [Gripp](https://www.gripp.com/support/werken-met-de-gripp-api)
+    - [Zoho](https://www.zoho.com/developer/rest-api.html)
+
+## Project management
+
+- [Redmine](https://www.redmine.org)
 
 ### Clouds
 
@@ -119,22 +132,6 @@
 ### [Hack](https://hacklang.org) on [HipHop Virtual Machine (HHVM)](https://hhvm.com)
 
 - [getting started](https://github.com/noud/hack-hhvm-getting-started)
-
-## Business
-
-- eCommerce
-    - [Magento](https://magento.com/products/magento-open-source)
-    - [WooCommerce](https://woocommerce.com)
-- accounting APIs
-    - [UNIT4 Multivers](https://api.online.unit4.nl/V18/Documentation)
-    - [Wolters Kluwer Twinfield](https://taxnl.wolterskluwer.com/software-koppelingen/partner-worden/koppelen-aan-wolters-kluwer-twinfield)
-- office APIs
-    - [Gripp](https://www.gripp.com/support/werken-met-de-gripp-api)
-    - [Zoho](https://www.zoho.com/developer/rest-api.html)
-
-## Project management
-
-- [Redmine](https://www.redmine.org)
 
 ## [Legasy](https://en.wikipedia.org/wiki/Legacy)
 
