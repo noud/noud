@@ -12,6 +12,8 @@
 
 ### [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) front ends
 
+#### Native for mobile [Capacitor](https://capacitor.ionicframework.com/docs) (Cordova and PhoneGap successor)
+
 #### [Express](https://expressjs.com) JS framework
 
 - [Hello World](https://github.com/noud/express-hello-world)
