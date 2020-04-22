@@ -26,22 +26,18 @@
 #### [React](https://https://reactjs.org)JS [front end](https://github.com/noud/frontend)
 
 - [GreenSock Animation Platform (GSAP)](https://github.com/noud/react-gsap-example)
-- [Apollo](https://www.apollographql.com/docs/react)
+- [Apollo GraphQL](https://www.apollographql.com/docs/react)
     - [generator](https://github.com/noud/react-graphql-code-generator)
     - [blog](https://github.com/noud/react-apollo-blog)
-- [Admin](https://github.com/noud/gripp_client_react_admin)
+- [React Admin](https://github.com/noud/gripp_client_react_admin)
+    -  [GraphQL](https://graphql.org)
+        - [OpenCRUD](https://www.opencrud.org) [react-admin-data-opencrud](https://github.com/noud/react-admin-data-opencrud)
+        - [GraphCool](https://github.com/prisma/graphcool-framework) [react-admin-data-graphqcool](https://github.com/noud/react-admin-data-graphcool)
+        - [json-graphql-server](https://github.com/marmelab/json-graphql-server) [react-admin-data-graphql-simple](https://github.com/noud/react-admin-data-graphql-simple)
+    - [Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)
+        - [Gripp API](https://github.com/noud/gripp_symfony)
 - [Redux](https://github.com/noud/gripp_client_react_redux)
 - [tic tac toe](https://github.com/noud/react-tic-tac-toe)
-
-### API protocols
-
-- [GraphQL](https://graphql.org)
-    - [OpenCRUD](https://www.opencrud.org) [react-admin-data-opencrud](https://github.com/noud/react-admin-data-opencrud)
-    - [GraphCool](https://github.com/prisma/graphcool-framework) [react-admin-data-graphqcool](https://github.com/noud/react-admin-data-graphcool)
-    - [json-graphql-server](https://github.com/marmelab/json-graphql-server) [react-admin-data-graphql-simple](https://github.com/noud/react-admin-data-graphql-simple)
-- [Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-    - [Gripp API](https://github.com/noud/gripp_symfony)
-- [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
 
 ### [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) back ends
 
