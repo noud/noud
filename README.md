@@ -25,6 +25,7 @@
 
 #### [React](https://https://reactjs.org)JS [front end](https://github.com/noud/frontend)
 
+- [GreenSock Animation Platform (GSAP)](https://github.com/noud/react-gsap-example)
 - [Apollo](https://www.apollographql.com/docs/react)
     - [generator](https://github.com/noud/react-graphql-code-generator)
     - [blog](https://github.com/noud/react-apollo-blog)
