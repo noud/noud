@@ -30,7 +30,7 @@
     - [blog](https://github.com/noud/react-apollo-blog)
 - [Admin](https://github.com/noud/gripp_client_react_admin)
 - [Redux](https://github.com/noud/gripp_client_react_redux)
-- [tic tac toe](https://github.com/noud/tic-tac-toe-react)
+- [tic tac toe](https://github.com/noud/react-tic-tac-toe)
 
 ### API protocols
 
