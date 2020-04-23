@@ -35,7 +35,7 @@
         - [react-admin-data-graphqcool](https://github.com/noud/react-admin-data-graphcool) to [GraphCool](https://github.com/prisma/graphcool-framework)
         - [react-admin-data-graphql-simple](https://github.com/noud/react-admin-data-graphql-simple) to [json-graphql-server](https://github.com/marmelab/json-graphql-server)
     - [Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-        - [react-admin-rest-gripp](https://github.com/noud/react-admin-rest-gripp) to [Gripp API](https://www.gripp.com/tour/api)
+        - [react-admin-rest-gripp](https://github.com/noud/react-admin-rest-gripp) to [OpenAPI](https://swagger.io/specification)
 - [Redux](https://github.com/noud/gripp_client_react_redux)
 - [tic tac toe](https://github.com/noud/react-tic-tac-toe)
 
