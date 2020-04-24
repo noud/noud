@@ -18,10 +18,10 @@
 
 - [Hello World](https://github.com/noud/express-hello-world)
 
-#### [Gatsby](https://www.gatsbyjs.org) JS framework
+#### [Gatsby](https://www.gatsbyjs.org) ([React](https://https://reactjs.org))JS framework
 
-- [Gripp API](https://github.com/noud/gripp_client_react_gatsby)
-- [Hello World](https://github.com/noud/gatsby-starter-hello-world-pandas)
+- [GraphQL](https://github.com/noud/gripp_client_react_gatsby)
+- [Pandas](https://github.com/noud/gatsby-starter-hello-world-pandas)
 
 #### [React](https://https://reactjs.org)JS [front end](https://github.com/noud/frontend)
 
