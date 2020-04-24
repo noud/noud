@@ -20,7 +20,7 @@
 
 #### [Gatsby](https://www.gatsbyjs.org) ([React](https://https://reactjs.org))JS framework
 
-- [GraphQL](https://github.com/noud/gripp_client_react_gatsby)
+- [GraphQL](https://github.com/noud/gatsby-graphql-gripp)
 - [Pandas](https://github.com/noud/gatsby-starter-hello-world-pandas)
 
 #### [React](https://https://reactjs.org)JS [front end](https://github.com/noud/frontend)
