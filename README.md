@@ -10,34 +10,23 @@
 
 ## Full stack
 
-### [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) front ends
+#### [React](https://https://reactjs.org) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) [front end](https://github.com/noud/frontend)
 
-#### Native for mobile [Capacitor](https://capacitor.ionicframework.com/docs) (Cordova and PhoneGap successor)
-
-#### [Express](https://expressjs.com) JS framework
-
-- [Hello World](https://github.com/noud/express-hello-world)
-
-#### [Gatsby](https://www.gatsbyjs.org) ([React](https://https://reactjs.org))JS framework
-
-- [GraphQL](https://github.com/noud/gatsby-graphql-gripp)
-- [Pandas](https://github.com/noud/gatsby-starter-hello-world-pandas)
-
-#### [React](https://https://reactjs.org)JS [front end](https://github.com/noud/frontend)
-
+- [Capacitor](https://capacitor.ionicframework.com/docs) Native for mobile (Cordova and PhoneGap successor)
+- [Gatsby](https://www.gatsbyjs.org)
+    - [example](https://github.com/noud/gatsby-graphql-gripp) static [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [GraphQL](https://graphql.org)
+    - [Pandas](https://github.com/noud/gatsby-starter-hello-world-pandas)
 - [GreenSock Animation Platform (GSAP)](https://github.com/noud/react-gsap-example)
 - [Apollo GraphQL](https://www.apollographql.com/docs/react)
     - [generator](https://github.com/noud/react-graphql-code-generator)
     - [blog](https://github.com/noud/react-apollo-blog)
 - [React Admin](https://github.com/noud/gripp_client_react_admin)
-    -  [GraphQL](https://graphql.org)
+    -  using [GraphQL](https://graphql.org)
         - [react-admin-data-opencrud](https://github.com/noud/react-admin-data-opencrud) to [OpenCRUD](https://www.opencrud.org) 
         - [react-admin-data-graphqcool](https://github.com/noud/react-admin-data-graphcool) to [GraphCool](https://github.com/prisma/graphcool-framework)
         - [react-admin-data-graphql-simple](https://github.com/noud/react-admin-data-graphql-simple) to [json-graphql-server](https://github.com/marmelab/json-graphql-server)
-    - [Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-        - [react-admin-rest-gripp](https://github.com/noud/react-admin-rest-gripp) to [OpenAPI](https://swagger.io/specification)
-- [Redux](https://github.com/noud/gripp_client_react_redux)
-- [tic tac toe](https://github.com/noud/react-tic-tac-toe)
+    - [react-admin-rest-gripp](https://github.com/noud/react-admin-rest-gripp) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
+- [example](https://github.com/noud/react-redux-rest-openapi-gripp) [Redux](https://redux.js.org) [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
 
 ### [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) back ends
 
@@ -127,6 +116,10 @@
 - [WiFi Realtek 8192EU Linux Driver](https://github.com/noud/rtl8192EU_WiFi_linux)
 
 ## Alternatives
+
+### [Express](https://expressjs.com) JS framework
+
+- [Hello World](https://github.com/noud/express-hello-world)
 
 ### [Hack](https://hacklang.org) on [HipHop Virtual Machine (HHVM)](https://hhvm.com)
 
