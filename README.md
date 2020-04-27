@@ -19,6 +19,7 @@
 - [OAuth2](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0) authentication over [GraphQL](https://lighthouse-passport-auth.web.app/) [example](https://github.com/noud/frontend)
 - [GreenSock Animation Platform (GSAP)](https://github.com/noud/react-gsap-example)
 - [React-Table](https://react-table.js.org) [example](https://github.com/noud/frontend)
+- [Create React App](https://create-react-app.dev) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [GraphQL](https://graphql.org) [example](https://github.com/noud/cra-typescript-graphql)
 - [Apollo GraphQL](https://www.apollographql.com/docs/react)
     - [generator](https://github.com/noud/react-graphql-code-generator)
     - [blog](https://github.com/noud/react-apollo-blog)
