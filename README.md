@@ -85,7 +85,7 @@
 - [phpBB](https://github.com/noud/sso-phpbb)
     - [phpbb-saml2](https://github.com/noud/phpbb-saml2)
 
-## [Information security (InfofSec)](https://en.wikipedia.org/wiki/Information_security)
+## [Information security (InfoSec)](https://en.wikipedia.org/wiki/Information_security)
 
 - [MISP](https://github.com/noud/MISP/commits/1.0) - Threat Intelligence Sharing Platform
 - [HID® OMNIKEY® 5021 CL hack](https://github.com/noud/pcsc#hid-omnikey-5021-cl)
