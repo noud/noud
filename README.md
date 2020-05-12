@@ -121,8 +121,8 @@
 
 ### OS Linux and Unix
 
-- [localhost](https://github.com/noud/laradock/tree/localhost#localhost) containers
-- [WiFi Realtek 8192EU Linux Driver](https://github.com/noud/rtl8192EU_WiFi_linux)
+- [localhost](https://github.com/noud/laradock/tree/localhost#localhost) Docker containers
+- [Realtek 8192EU WiFi Linux driver](https://github.com/noud/rtl8192EU_WiFi_linux)
 
 ## Alternatives
 
