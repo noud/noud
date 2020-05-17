@@ -20,7 +20,7 @@
 - [GreenSock Animation Platform (GSAP)](https://github.com/noud/react-gsap-example)
 - [React-Table](https://react-table.js.org) [example](https://github.com/noud/frontend)
 - [Create React App](https://create-react-app.dev)
-    - [Chart.js](http://jerairrest.github.io/react-chartjs-2) [example](https://github.com/noud/cra-chart)
+    - [Chart.js](http://jerairrest.github.io/react-chartjs-2) [example](https://github.com/noud/cra-chartjs)
     - [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [GraphQL](https://graphql.org) [example](https://github.com/noud/cra-typescript-graphql)
 - [Apollo GraphQL](https://www.apollographql.com/docs/react)
     - [generator](https://github.com/noud/react-graphql-code-generator)
