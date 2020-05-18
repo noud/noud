@@ -51,10 +51,6 @@
 
 - [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
 
-##### [Meteor](https://www.meteor.com)JS
-
-- [Simple todos](https://github.com/noud/meteor-simple-todos)
-
 #### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net)
 
 ##### [Laravel](https://laravel.com)
@@ -150,6 +146,10 @@
 
 - [Gripp API](https://github.com/noud/gripp_client_vue)
 - [Lighthouse tutorial](https://github.com/noud/lighthouse-tutorial)
+
+### [Meteor](https://www.meteor.com)JS
+
+- [Simple todos](https://github.com/noud/meteor-simple-todos)
 
 ### [version control system (VCS)](https://en.wikipedia.org/wiki/Version_control)s
 
