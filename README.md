@@ -27,7 +27,23 @@
         - [react-admin-data-graphqcool](https://github.com/noud/react-admin-data-graphcool) to [GraphCool](https://github.com/prisma/graphcool-framework)
         - [react-admin-data-graphql-simple](https://github.com/noud/react-admin-data-graphql-simple) to [json-graphql-server](https://github.com/marmelab/json-graphql-server)
     - [react-admin-rest-gripp](https://github.com/noud/react-admin-rest-gripp) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
-- [example](https://github.com/noud/react-redux-rest-openapi-gripp) [Redux](https://redux.js.org) [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
+- [Redux](https://redux.js.org)
+    - [example](https://github.com/noud/react-redux-rest-openapi-gripp) [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
+    - [React Redux Webpack Template](https://github.com/noud/react-redux-webpack-template)
+    - [Simple React Todo app](https://github.com/noud/example-react-todo-app)
+        - How to Build Simple React App
+            - [Part 4](https://kolosek.com/building-simple-react-app-part-4/)
+            - [Part 3](https://kolosek.com/building-simple-react-app-part-3/)
+            - [Part 2](https://dev.to/neshaz/building-a-simple-re)
+            - [Part 1](https://kolosek.com/building-simple-react-app-part-1/)
+    - [todo-app-with-react-and-redux](https://github.com/noud/todo-app-with-react-and-redux)
+    - [Todos example](https://github.com/noud/redux-examples)s
+    - [codesandbox](https://codesandbox.io/s/todo-app-with-redux-1kf7n)
+    - books
+        - [React and React Native: A complete hands-on guide to modern web and mobile development with React.js, 3rd Edition](https://books.google.nl/books?id=XCLhDwAAQBAJ&source=gbs_navlinks_s)
+        - [Learn React Hooks: Build and refactor modern React.js applications using Hooks](https://books.google.nl/books?id=Tkm4DwAAQBAJ&source=gbs_navlinks_s)
+        - [Create React App 2 Quick Start Guide: Build React applications faster with Create React App](https://books.google.nl/books?id=Fs6KDwAAQBAJ&source=gbs_navlinks_s)
+        - [ReactJS for Beginners](https://books.google.nl/books?id=R-dfDwAAQBAJ&source=gbs_navlinks_s)
 
 ### [Back end](https://en.wikipedia.org/wiki/Front_end_and_back_end)s [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)
 
