@@ -49,6 +49,7 @@
 
 ##### [Express](https://expressjs.com) JS framework
 
+- [Hello World](https://github.com/noud/express-hello-world)
 - [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
 
 #### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net)
@@ -66,6 +67,10 @@
 
 - [CondenseTemplate](https://github.com/noud/cakephp-condense_template)
 - [Dutch inflector rules](https://github.com/noud/cakephp-dutch)
+
+#### [Hack](https://hacklang.org) on [HipHop Virtual Machine (HHVM)](https://hhvm.com)
+
+- [getting started](https://github.com/noud/hack-hhvm-getting-started)
 
 ## Utilities
 
@@ -129,16 +134,6 @@
 
 - [localhost](https://github.com/noud/laradock/tree/localhost#localhost) Docker containers
 - [Realtek RTL8192EU WiFi Linux driver](https://github.com/noud/rtl8192EU_WiFi_linux)
-
-## Alternatives
-
-### [Express](https://expressjs.com) JS framework
-
-- [Hello World](https://github.com/noud/express-hello-world)
-
-### [Hack](https://hacklang.org) on [HipHop Virtual Machine (HHVM)](https://hhvm.com)
-
-- [getting started](https://github.com/noud/hack-hhvm-getting-started)
 
 ## [Legasy](https://en.wikipedia.org/wiki/Legacy)
 
