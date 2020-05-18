@@ -6,7 +6,7 @@
 
 ## Full stack
 
-#### [Front end](https://en.wikipedia.org/wiki/Front_end_and_back_end) [React](https://reactjs.org) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+#### [Front end](https://github.com/noud/frontend) [React](https://reactjs.org) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 - [Capacitor](https://capacitor.ionicframework.com/docs) Native for mobile (Cordova and PhoneGap successor)
 - [Gatsby](https://www.gatsbyjs.org)
