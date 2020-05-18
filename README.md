@@ -98,12 +98,13 @@
 
 ## Business
 
-- eCommerce
-    - [Magento](https://magento.com/products/magento-open-source)
-    - [WooCommerce](https://woocommerce.com)
 - accounting APIs
     - [UNIT4 Multivers](https://api.online.unit4.nl/V18/Documentation)
     - [Wolters Kluwer Twinfield](https://taxnl.wolterskluwer.com/software-koppelingen/partner-worden/koppelen-aan-wolters-kluwer-twinfield)
+- CurrencyConverter[SaaS](https://github.com/noud/CurrencyConverterSaaS) microservice
+- eCommerce
+    - [Magento](https://magento.com/products/magento-open-source)
+    - [WooCommerce](https://woocommerce.com)
 - office APIs
     - [Gripp](https://www.gripp.com/support/werken-met-de-gripp-api)
     - [Zoho](https://www.zoho.com/developer/rest-api.html)
@@ -132,7 +133,7 @@
 
 ### OS Linux and Unix
 
-- [localhost](https://github.com/noud/laradock/tree/localhost#localhost) Docker containers
+- [Ansible](https://www.ansible.com) provisioned [localhost](https://github.com/noud/laradock/tree/localhost#localhost) Docker containers
 - [Realtek RTL8192EU WiFi Linux driver](https://github.com/noud/rtl8192EU_WiFi_linux)
 
 ## [Legasy](https://en.wikipedia.org/wiki/Legacy)
