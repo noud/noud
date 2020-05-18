@@ -6,7 +6,7 @@
 
 ## Full stack
 
-#### [Front end](https://github.com/noud/frontend) [React](https://reactjs.org) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+#### [Front end](https://en.wikipedia.org/wiki/Front_end_and_back_end) [React](https://reactjs.org) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 - [Capacitor](https://capacitor.ionicframework.com/docs) Native for mobile (Cordova and PhoneGap successor)
 - [Gatsby](https://www.gatsbyjs.org)
@@ -29,7 +29,7 @@
     - [react-admin-rest-gripp](https://github.com/noud/react-admin-rest-gripp) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
 - [example](https://github.com/noud/react-redux-rest-openapi-gripp) [Redux](https://redux.js.org) [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
 
-### [Back ends](https://github.com/noud/frontend) [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)
+### [Back end](https://en.wikipedia.org/wiki/Front_end_and_back_end)s [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)
 
 #### [Node.js](https://nodejs.org/en)
 
