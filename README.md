@@ -2,15 +2,11 @@
 
 ## COVID-19 [mouth mask](https://github.com/noud/mouth-mask)
 
-## Most current and expert skills
-
-- [React front end](https://github.com/noud/frontend)
-- [GraphQL](https://graphql.org) [application programming interface (API)](https://en.wikipedia.org/wiki/Application_programming_interface)
-- [SaaS Laravel back end](https://github.com/noud/saas)
+## Most current & expert skills, [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
 
 ## Full stack
 
-#### [React](https://reactjs.org) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) [front end](https://github.com/noud/frontend)
+#### [Front end](https://github.com/noud/frontend) [React](https://reactjs.org) [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 - [Capacitor](https://capacitor.ionicframework.com/docs) Native for mobile (Cordova and PhoneGap successor)
 - [Gatsby](https://www.gatsbyjs.org)
@@ -33,9 +29,9 @@
     - [react-admin-rest-gripp](https://github.com/noud/react-admin-rest-gripp) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
 - [example](https://github.com/noud/react-redux-rest-openapi-gripp) [Redux](https://redux.js.org) [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
 
-### [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) back ends
+### [Back ends](https://github.com/noud/frontend) [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)
 
-#### [Node.js](https://nodejs.org/en) back ends
+#### [Node.js](https://nodejs.org/en)
 
 - [jts-sql](https://github.com/noud/jts-sql) for [jts-sql-js](https://github.com/noud/jts-sql-js)
 
@@ -47,7 +43,7 @@
 
 - [Simple todos](https://github.com/noud/meteor-simple-todos)
 
-#### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net) back ends
+#### [PHP: Hypertext Preprocessor (PHP)](https://www.php.net)
 
 ##### [Laravel](https://laravel.com)
 
