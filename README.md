@@ -31,11 +31,7 @@
     - [example](https://github.com/noud/react-redux-rest-openapi-gripp) [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
     - [React Redux Webpack Template](https://github.com/noud/react-redux-webpack-template)
     - [Simple React Todo app](https://github.com/noud/example-react-todo-app)
-        - How to Build Simple React App
-            - [Part 4](https://kolosek.com/building-simple-react-app-part-4/)
-            - [Part 3](https://kolosek.com/building-simple-react-app-part-3/)
-            - [Part 2](https://dev.to/neshaz/building-a-simple-re)
-            - [Part 1](https://kolosek.com/building-simple-react-app-part-1/)
+        - How to Build Simple React App, part [1](https://kolosek.com/building-simple-react-app-part-1/) [2](https://dev.to/neshaz/building-a-simple-re) [3](https://kolosek.com/building-simple-react-app-part-3/) [4](https://kolosek.com/building-simple-react-app-part-4/)
     - [todo-app-with-react-and-redux](https://github.com/noud/todo-app-with-react-and-redux)
     - [Todos example](https://github.com/noud/redux-examples)s
     - [codesandbox](https://codesandbox.io/s/todo-app-with-redux-1kf7n)
