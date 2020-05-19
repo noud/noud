@@ -16,7 +16,7 @@
 - [GreenSock Animation Platform (GSAP)](https://github.com/noud/react-gsap-example)
 - [React-Table](https://react-table.js.org) [example](https://github.com/noud/frontend)
 - [Create React App](https://create-react-app.dev)
-    - [Chart.js](http://jerairrest.github.io/react-chartjs-2) [example](https://github.com/noud/cra-chartjs)
+    - [🍩 CRA Doughnut Chart.js](https://github.com/noud/cra-chartjs)
     - [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [GraphQL](https://graphql.org) [example](https://github.com/noud/cra-typescript-graphql)
 - [Redux](https://redux.js.org)
     - [example](https://github.com/noud/react-redux-rest-openapi-gripp) [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_applications) using [REST](https://en.wikipedia.org/wiki/REST) to [OpenAPI](https://swagger.io/specification)
@@ -101,7 +101,7 @@
 - accounting APIs
     - [UNIT4 Multivers](https://api.online.unit4.nl/V18/Documentation)
     - [Wolters Kluwer Twinfield](https://taxnl.wolterskluwer.com/software-koppelingen/partner-worden/koppelen-aan-wolters-kluwer-twinfield)
-- CurrencyConverter[SaaS](https://github.com/noud/CurrencyConverterSaaS) microservice
+- [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) microservice
 - eCommerce
     - [Magento](https://magento.com/products/magento-open-source)
     - [WooCommerce](https://woocommerce.com)
