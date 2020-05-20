@@ -1,8 +1,14 @@
-# Repositories index
+# Technical portfolio (repositories index)
 
 ## COVID-19 [mouth mask](https://github.com/noud/mouth-mask)
 
-## Most current & expert skills, [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
+## Most current & expert skills set, [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
+
+## Most active projects
+
+- [🍩 Doughnut Chart](https://github.com/noud/cra-chartjs) SPA
+- [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
+- [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
 
 ## Full stack
 
