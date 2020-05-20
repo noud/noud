@@ -2,9 +2,11 @@
 
 ## COVID-19 [mouth mask](https://github.com/noud/mouth-mask)
 
-## Most current & expert skills set, [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
+## Most
 
-## Most active projects
+### Current & expert skills set, [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
+
+### Active projects
 
 - [🍩 DoughnutChart](https://github.com/noud/cra-chartjs) SPA
 - [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
