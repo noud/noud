@@ -1,4 +1,4 @@
-# Technical portfolio (repositories index)
+# Portfolio (repositories index)
 
 ## COVID-19 [mouth mask](https://github.com/noud/mouth-mask)
 
