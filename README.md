@@ -2,7 +2,7 @@
 
 ## COVID-19 [mouth mask](https://github.com/noud/mouth-mask)
 
-## Most
+## Most …
 
 - Current & expert hard skills tags: "[React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)".
 - Active projects
