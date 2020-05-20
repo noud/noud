@@ -8,3 +8,5 @@
     - [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
 
 ## [Tooling](https://github.com/noud/portfolio/blob/master/README_Tooling.md)
+
+# My [cv resume](https://github.com/noud/resume#cv-resume)
