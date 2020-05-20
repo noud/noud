@@ -4,13 +4,11 @@
 
 ## Most
 
-### Current & expert skills set: [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
-
-### Active projects
-
-- [🍩 DoughnutChart](https://github.com/noud/cra-chartjs) SPA
-- [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
-- [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
+- Current & expert hard skills: [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
+- Active projects
+    - [🍩 DoughnutChart](https://github.com/noud/cra-chartjs) SPA
+    - [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
+    - [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
 
 ## Full stack
 
