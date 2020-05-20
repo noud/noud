@@ -4,7 +4,7 @@
 
 ## Most
 
-### Current & expert skills set, [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
+### Current & expert skills set: [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas)
 
 ### Active projects
 
