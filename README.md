@@ -6,7 +6,7 @@
 
 ## Most active projects
 
-- [🍩 Doughnut Chart](https://github.com/noud/cra-chartjs) SPA
+- [🍩 DoughnutChart](https://github.com/noud/cra-chartjs) SPA
 - [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
 - [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
 
@@ -22,7 +22,7 @@
 - [GreenSock Animation Platform (GSAP)](https://github.com/noud/react-gsap-example)
 - [React-Table](https://react-table.js.org) [example](https://github.com/noud/frontend)
 - [Create React App](https://create-react-app.dev)
-    - [🍩 Doughnut Chart](https://github.com/noud/cra-chartjs)
+    - [🍩 DoughnutChart](https://github.com/noud/cra-chartjs)
     - [📺 TVshow](https://github.com/noud/cra-tv-show)
     - [TypeScript](https://en.wikipedia.org/wiki/TypeScript) [GraphQL](https://graphql.org) [example](https://github.com/noud/cra-typescript-graphql)
 - [Redux](https://redux.js.org)
