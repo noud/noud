@@ -6,6 +6,7 @@
     - [🍩 DoughnutChart](https://github.com/noud/cra-chartjs) SPA
     - [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
     - [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
+- [Story](https://stackoverflow.com/story/noud)
 
 ## [Tooling](https://github.com/noud/portfolio/blob/master/README_Tooling.md)
 
