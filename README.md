@@ -9,4 +9,4 @@
 
 ## [Tooling](https://github.com/noud/portfolio/blob/master/README_Tooling.md)
 
-# My [cv resume](https://github.com/noud/resume#cv-resume)
+# [🧑🏻‍💻 CV Resume](https://github.com/noud/resume#cv-resume)
