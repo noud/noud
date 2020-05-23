@@ -8,10 +8,11 @@
     - [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
 - [👨‍💻 Coding conventions](https://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
 - [SCRUM](https://github.com/noud?tab=projects)
+- [production]()
 - [Open Source Software (OSS)](https://opensource.org/) stories
     - [GitHub](https://github.com/noud?tab=overview&from=2012-06-01&to=2012-06-30)
     - [Stack Overflow](https://stackoverflow.com/story/noud)
 
 ## [Agile](https://wikipedia.org/wiki/Agile_tooling) [Tooling](https://github.com/noud/portfolio/blob/master/README_Tooling.md)
 
-# [🧑🏻‍💻 CV Resume](https://github.com/noud/resume#cv-resume)
+# [CV Resume](https://github.com/noud/resume#cv-resume)
