@@ -15,4 +15,4 @@
 
 ## [Agile](https://wikipedia.org/wiki/Agile_tooling) [Tooling](https://github.com/noud/portfolio/blob/master/README_Tooling.md)
 
-# [CV Resume](https://github.com/noud/resume#cv-resume)
+# [CV Résumé](https://github.com/noud/resume#cv-resume)
