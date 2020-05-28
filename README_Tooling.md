@@ -132,6 +132,7 @@
 
 - [Ansible](https://www.ansible.com) provisioned
     - Docker
+        - [ElasticSearch cluster](https://github.com/noud/elasticsearch-docker-compose) containers
         - [Apache vhost](https://github.com/noud/laradock-hieu) container
         - [localhost](https://github.com/noud/laradock/tree/localhost#localhost) containers
 - [Realtek RTL8192EU WiFi Linux driver](https://github.com/noud/rtl8192EU_WiFi_linux)
