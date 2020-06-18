@@ -3,7 +3,7 @@
 - [React](https://github.com/noud/frontend) GraphQL [SaaS Laravel](https://github.com/noud/saas) (short hard skills tags line)
 - Active projects
     - [😷 MouthMask](https://github.com/noud/mouth-mask) COVID-19
-    - [Ansible provisioned Docker Kibana, ElasticSearch and ManifoldCF cluster with React and Vue.js front end microservices containers](https://github.com/noud/elasticsearch-docker-ansible)
+    - [Elastic's Kibana, ElasticSearch and Apache's ManifoldCF with React and Vue.js front end microservices in Docker containers provisioned by Red Hat's Ansible](https://github.com/noud/elasticsearch-docker-ansible)
     - [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
     - [🍩 DoughnutChart](https://github.com/noud/cra-chartjs) SPA
     - [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
