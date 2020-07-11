@@ -132,10 +132,12 @@
 
 - Ansible provisioned
     - Docker
-        - [Kibana, ElasticSearch and ManifoldCF cluster with React and Vue.js front end microservices](https://github.com/noud/elasticsearch-docker-ansible) containers
-        - [Apache vhost](https://github.com/noud/laradock-hieu) container
-        - [localhost](https://github.com/noud/laradock/tree/localhost#localhost) containers
-- [Realtek RTL8192EU WiFi Linux driver](https://github.com/noud/rtl8192EU_WiFi_linux)
+        - [Kibana, ElasticSearch and ManifoldCF cluster with React and Vue.js front end microservices](http://github.com/noud/elasticsearch-docker-ansible) containers
+        - [Apache vhost](http://github.com/noud/laradock-hieu) container
+        - [localhost](http://github.com/noud/laradock/tree/localhost#localhost) containers
+- Linux driver
+    - Realtek. [RTL8192EU WiFi USB](http://github.com/noud/rtl8192EU_WiFi_linux)
+    - Eminent, [Adapterek EM1010 10/100Mbps USB](http://github.com/noud/EM1010)
 
 ## [Legasy](https://en.wikipedia.org/wiki/Legacy)
 
