@@ -7,7 +7,7 @@
     - [💱 CurrencyConverter](https://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
     - [🍩 DoughnutChart](https://github.com/noud/cra-chartjs) SPA
     - [📺 TVshow](https://github.com/noud/cra-tv-show) SPA API
-    - [Kibana, ElasticSearch, ManifoldCF, React, Vue.js, Docker, Ansible](https://github.com/noud/elasticsearch-docker-ansible)
+    - [🔍 Kibana, ElasticSearch, ManifoldCF, React, Vue.js, Docker, Ansible](https://github.com/noud/elasticsearch-docker-ansible)
 - [👨‍💻 Coding conventions](https://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
 - [SCRUM](https://github.com/noud?tab=projects)
 - [production]()
