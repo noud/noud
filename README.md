@@ -1,11 +1,11 @@
 # [portfolio](http://github.com/noud/portfolio#portfolio)
 ```
-  😷   📱 --\          /--📺
-  👨‍💻   🖥️ ------- 🔍🐧🌏--💱
-                       \--👮‍♀️
-
-users | programmed &    | analyzed &
-      | code generation | programmed
+  😷   📱 --\          /--📺         | Noud deBROUWER
+  👨‍💻   🖥️ ------- 🔍🐧🌏--💱         | ☎️ +31 6 1987 3003
+                       \--👮‍♀️         | 📧 noud4@home.nl
+                                     | 🌐 github.com/noud
+users | programmed &    | analyzed & | 🐦 @APdeBROUWER
+      | code generation | programmed | 
 ```
 ## active projects
 - [😷 MouthMask](http://github.com/noud/mouth-mask) (#Earth #COVID19)
