@@ -2,10 +2,11 @@
 
 - Active projects
     - [😷 MouthMask](http://github.com/noud/mouth-mask) COVID-19
-    - 🖥️ PWA React [politie](http://github.com/noud/react-redux-openapi-politie) to REST OpenAPI [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api) (#BLM)
+    - 🖥️ PWA React
+        - [politie](http://github.com/noud/react-redux-openapi-politie) to REST OpenAPI [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api) (#BLM)
+        - [front end](http://github.com/noud/frontend) to GraphQL [SaaS](http://github.com/noud/saas)
     - [💱 CurrencyConverter](http://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
     - [📺 TVshow](http://github.com/noud/cra-tv-show) SPA API
-    - React [front end](http://github.com/noud/frontend) to GraphQL [SaaS](http://github.com/noud/saas)
     - 📱 SPA React [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
     - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF, Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
 - [👨‍💻 Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
