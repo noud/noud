@@ -1,8 +1,8 @@
 # [portfolio](http://github.com/noud/portfolio#portfolio)
 ```
-  😷   📱 --\          /--📺         | Noud deBROUWER
-  👨‍💻   🖥️ ------- 🔍🐧🌏--💱         > ☎️ +31 6 1987 3003
-                       \--👮‍♀️         | 📧 noud4@home.nl
+  😷   📱 --\           /--📺        | Noud deBROUWER
+  👨‍💻   🖥️ -------- 🔍🐧🌏--💱        > ☎️ +31 6 1987 3003
+                        \--👮‍♀️        | 📧 noud4@home.nl
                                      | 🌐 github.com/noud
 users | programmed &    | analyzed & | 🐦 @APdeBROUWER
       | code generation | programmed | 
