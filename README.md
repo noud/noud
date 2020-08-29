@@ -1,6 +1,6 @@
-# [📁 Portfolio](http://github.com/noud/portfolio#portfolio-repositories-index) ([repositories](http://github.com/noud?tab=repositories))
+# [👨‍💻 portfolio](http://github.com/noud/portfolio#portfolio-repositories-index)
 
-## In short
+## in short
 
 ```
   😷   📱 --\          /--📺
@@ -10,7 +10,7 @@
 users | programmed &    |
       | code generation | programmed
 ```
-## Active projects
+## active projects
 
 - [😷 MouthMask](http://github.com/noud/mouth-mask) (#Earth #COVID19)
 - 🖥️ PWA React (#reactjs)
@@ -22,13 +22,13 @@ users | programmed &    |
 - 📱 SPA React [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
 - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
 
-## By
+## by
 
-- [Agile](http://wikipedia.org/wiki/Agile_tooling) [Tooling](http://github.com/noud/portfolio/blob/master/README_Tooling.md)
-- [👨‍💻 Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
+- [Agile](http://wikipedia.org/wiki/Agile_tooling) [Tooling](http://github.com/noud/portfolio/blob/master/README_Tooling.md) ([📁 repositories](http://github.com/noud?tab=repositories))
+- [Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
 - [Open Source Software (OSS)](http://opensource.org/) stories
     - [GitHub](http://github.com/noud?tab=overview&from=2012-06-01&to=2012-06-30)
     - [Stack Overflow](http://stackoverflow.com/story/noud)
 - [SCRUM](http://github.com/noud?tab=projects)
 
-# [CV Résumé](http://github.com/noud/resume#cv-resume)
+# [cv résumé](http://github.com/noud/resume#cv-resume)
