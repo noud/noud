@@ -4,7 +4,7 @@
     - [😷 MouthMask](http://github.com/noud/mouth-mask) (#Earth #COVID19)
     - 🖥️ PWA React (#reactjs)
         - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST OpenAPI Laravel](http://github.com/noud/laravel-api-platform) using [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api) (#BLM #NL #politie #API #Laravel)
-        - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST Hydra Symfony](http://github.com/noud/gripp_symfony) using [Gripp API](http://github.com/noud/gripp_api) (#NL #Tilburg #API #symfony)
+        - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST Hydra Symfony](http://github.com/noud/gripp_symfony) using [Gripp JSON-RPC API](http://github.com/noud/gripp_api) (#NL #Tilburg #API #symfony)
         - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [Laravel SaaS](http://github.com/noud/saas) (#GraphQL #Laravel)
     - [💱 CurrencyConverter](http://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
     - [📺 TVshow](http://github.com/noud/cra-tv-show) SPA API
