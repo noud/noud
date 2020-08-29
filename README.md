@@ -1,7 +1,4 @@
-# [👨‍💻 portfolio](http://github.com/noud/portfolio#portfolio-repositories-index)
-
-## in short
-
+# [portfolio](http://github.com/noud/portfolio#portfolio-repositories-index)
 ```
   😷   📱 --\          /--📺
   👨‍💻   🖥️ ------- 🔍🐧🌏--💱
@@ -11,7 +8,6 @@ users | programmed &    | analyzed &
       | code generation | programmed
 ```
 ## active projects
-
 - [😷 MouthMask](http://github.com/noud/mouth-mask) (#Earth #COVID19)
 - 🖥️ PWA React (#reactjs)
     - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST OpenAPI Laravel](http://github.com/noud/laravel-api-platform) using [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api) (#BLM #NL #politie #API #Laravel)
@@ -21,14 +17,11 @@ users | programmed &    | analyzed &
 - [📺 TVshow](http://github.com/noud/cra-tv-show) SPA API
 - 📱 SPA React [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
 - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
-
 ## by
-
 - [Agile](http://wikipedia.org/wiki/Agile_tooling) [Tooling](http://github.com/noud/portfolio/blob/master/README_Tooling.md) ([📁 repositories](http://github.com/noud?tab=repositories))
 - [Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
 - [Open Source Software (OSS)](http://opensource.org/) stories
     - [GitHub](http://github.com/noud?tab=overview&from=2012-06-01&to=2012-06-30)
     - [Stack Overflow](http://stackoverflow.com/story/noud)
 - [SCRUM](http://github.com/noud?tab=projects)
-
 # [cv résumé](http://github.com/noud/resume#cv-resume)
