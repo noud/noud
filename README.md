@@ -1,4 +1,4 @@
-# [portfolio](http://github.com/noud/portfolio#portfolio-repositories-index)
+# [portfolio](http://github.com/noud/portfolio#portfolio)
 ```
   😷   📱 --\          /--📺
   👨‍💻   🖥️ ------- 🔍🐧🌏--💱
