@@ -8,7 +8,7 @@
     - [💱 CurrencyConverter](http://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
     - [📺 TVshow](http://github.com/noud/cra-tv-show) SPA API
     - 📱 SPA React [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
-    - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
+    - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
 - [Agile](http://wikipedia.org/wiki/Agile_tooling) [Tooling](http://github.com/noud/portfolio/blob/master/README_Tooling.md)
 - [👨‍💻 Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
 - [Open Source Software (OSS)](http://opensource.org/) stories
