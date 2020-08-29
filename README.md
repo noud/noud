@@ -7,7 +7,7 @@
   👨‍💻   🖥️ ------- 🔍🐧🌏--💱
                        \--👮‍♀️
 
-users | programmed &    |
+users | programmed &    | analyzed &
       | code generation | programmed
 ```
 ## active projects
