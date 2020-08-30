@@ -3,8 +3,8 @@
   😷   📱 --\           /--📺        | Noud deBROUWER
   👨‍💻   🖥️ -------- 🔍🐧🌏--💱        > ☎️ +31 6 1987 3003
                         \--👮‍♀️        | 📧 noud4@home.nl
-                                     | 🌐 github.com/noud
-users | programmed &    | analyzed & | 🐦 @APdeBROUWER
+                                     | 🐦 @APdeBROUWER
+users | programmed &    | analyzed & | 🌐 github.com/noud
       | code generation | programmed | 
 ```
 ## active projects
