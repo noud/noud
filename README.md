@@ -9,14 +9,16 @@ users | programmed &    | analyzed & | 🌐 github.com/noud
 ```
 ## active projects
 - [😷 MouthMask](http://github.com/noud/mouth-mask)
-- 🖥️ PWA React
-    - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST OpenAPI Laravel](http://github.com/noud/laravel-api-platform) using [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api)
-    - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST Hydra Symfony](http://github.com/noud/gripp_symfony) using [Gripp JSON-RPC API](http://github.com/noud/gripp_api)
-    - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [Laravel SaaS](http://github.com/noud/saas)
-- [💱 CurrencyConverter](http://github.com/noud/CurrencyConverter-SaaS) SPA
-- [📺 TVshow](http://github.com/noud/cra-tv-show) SPA API
-- 📱 SPA React [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
-- [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
+- 🖥️ React
+    - 🖥️ PWA
+        - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST OpenAPI Laravel](http://github.com/noud/laravel-api-platform) using [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api)
+        - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST Hydra Symfony](http://github.com/noud/gripp_symfony) using [Gripp JSON-RPC API](http://github.com/noud/gripp_api)
+        - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [Laravel SaaS](http://github.com/noud/saas)
+    - 📱 SPA
+        - [💱 CurrencyConverter APIs](http://github.com/noud/CurrencyConverter-SaaS)
+        - [📺 TVshow API](http://github.com/noud/cra-tv-show)
+        - [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
+    - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
 ## by
 - [Agile](http://wikipedia.org/wiki/Agile_tooling) [Tooling](http://github.com/noud/portfolio/blob/master/README_Tooling.md) ([📁 repositories](http://github.com/noud?tab=repositories))
 - [Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
