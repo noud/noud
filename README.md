@@ -12,8 +12,8 @@ users | programmed &    | analyzed & | 🌐 github.com/noud
 - 🖥️ PWA React
     - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST OpenAPI Laravel](http://github.com/noud/laravel-api-platform) using [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api)
     - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST Hydra Symfony](http://github.com/noud/gripp_symfony) using [Gripp JSON-RPC API](http://github.com/noud/gripp_api)
-    - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [Laravel SaaS](http://github.com/noud/saas) (#GraphQL #Laravel)
-- [💱 CurrencyConverter](http://github.com/noud/CurrencyConverter-SaaS) SPA SaaS API
+    - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [Laravel SaaS](http://github.com/noud/saas)
+- [💱 CurrencyConverter](http://github.com/noud/CurrencyConverter-SaaS) SPA
 - [📺 TVshow](http://github.com/noud/cra-tv-show) SPA API
 - 📱 SPA React [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
 - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
@@ -26,5 +26,5 @@ users | programmed &    | analyzed & | 🌐 github.com/noud
     - [Unix](http://pkgsrc.se/bbmaint.php?maint=noud4@users.sourceforge.net)
 - [SCRUM](http://github.com/noud?tab=projects)
 # tags
-#all #Earth #COVID19 #BLM #Europe #nl #politie #Tilburg #developer #programming #coding #data #Software #NodeJS @npmjs #npm #reactJS #TypeScript #js #API #GraphQL @packagist #packagist #Laravel #symfony #PHP #linux #unix @Microsoft @github #github #100DaysOfCode
+#all #Earth #COVID19 #BLM #Europe #nl #politie #Tilburg #developer #programming #coding #data #Software #NodeJS @npmjs #npm #reactJS #TypeScript #js #API #GraphQL #SaaS @packagist #packagist #Laravel #symfony #PHP #linux #unix @Microsoft @github #github #100DaysOfCode
 # [cv résumé](http://github.com/noud/resume#cv-resume)
