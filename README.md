@@ -18,7 +18,7 @@ users | programmed &    | analyzed & | 🌐 github.com/noud
         - [💱 CurrencyConverter APIs](http://github.com/noud/CurrencyConverter-SaaS)
         - [📺 TVshow API](http://github.com/noud/cra-tv-show)
         - [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
-    - [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
+- [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
 ## by
 - [Agile](http://wikipedia.org/wiki/Agile_tooling) [Tooling](http://github.com/noud/portfolio/blob/master/README_Tooling.md) ([📁 repositories](http://github.com/noud?tab=repositories))
 - [Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
