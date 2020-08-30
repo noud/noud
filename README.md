@@ -12,13 +12,13 @@ users | programmed &    | analyzed & | 🌐 github.com/noud
 - 🖥️ React
     - 🖥️ PWA
         - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST OpenAPI Laravel](http://github.com/noud/laravel-api-platform) using [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api)
+        - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [SaaS Laravel](http://github.com/noud/saas)
         - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST Hydra Symfony](http://github.com/noud/gripp_symfony) using [Gripp JSON-RPC API](http://github.com/noud/gripp_api)
-        - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [Laravel SaaS](http://github.com/noud/saas)
     - 📱 SPA
-        - [💱 CurrencyConverter APIs](http://github.com/noud/CurrencyConverter-SaaS)
+        - [💱 CurrencyConverter API](http://github.com/noud/CurrencyConverter-SaaS)s
         - [📺 TVshow API](http://github.com/noud/cra-tv-show)
         - [🍩 DoughnutChart](http://github.com/noud/cra-chartjs)
-- [React and Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
+- [React & Vue.js front ends to 🔍 Kibana, ElasticSearch, ManifoldCF by 🐧 Docker, Ansible](http://github.com/noud/elasticsearch-docker-ansible)
 ## by
 - [Agile](http://wikipedia.org/wiki/Agile_tooling) [Tooling](http://github.com/noud/portfolio/blob/master/README_Tooling.md) ([📁 repositories](http://github.com/noud?tab=repositories))
 - [Coding conventions](http://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
