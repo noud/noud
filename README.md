@@ -9,9 +9,9 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
 ```
 ## active projects
 - [😷 MouthMask](http://github.com/noud/mouth-mask)
+- [SaaS billing](http://github.com/noud/laravel-billing)
 - 🖥️ React
     - 🖥️ PWA
-        - [SaaS Billing](http://github.com/noud/laravel-billing)
         - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST OpenAPI Laravel](http://github.com/noud/laravel-api-platform) using [👮‍♀️ POLITIE API](http://github.com/noud/politie-open-data-api)
         - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [SaaS Laravel](http://github.com/noud/saas)
         - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST Hydra Symfony](http://github.com/noud/gripp_symfony) using [JSON-RPC API](http://github.com/noud/gripp_api)
