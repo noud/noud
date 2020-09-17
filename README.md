@@ -9,7 +9,7 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
 ```
 ## active projects
 - [😷 MouthMask](http://github.com/noud/mouth-mask)
-- [React admin OpenAPI](https://github.com/noud/api-platform-react-admin) [Symfony bundles](http://github.com/noud?tab=repositories&q=api-platform-)
+- [React admin OpenAPI](https://github.com/noud/api-platform-react-admin) [Symfony bundles](http://github.com/noud?tab=repositories&q=api-platform-) on [Packagist](http://packagist.org/users/noud/packages/?query=noud%2Fapi-platform-)
 - [SaaS billing](http://github.com/noud/laravel-billing)
     - [Laravel real binary Schema column type](https://packagist.org/packages/noud/laravel-schema-real-binary)
 - 🖥️ React
