@@ -28,6 +28,7 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
 - [Magento](https://magento.com/products/magento-open-source)
 - [WooCommerce](https://woocommerce.com)
 ## Payment
+- [MANGOPAY][http://mangopay.com]
 - [Omnipay](http://github.com/thephpleague/omnipay)
     - [2checkout](http://github.com/urukalo/omnipay-2checkout)
 ## Accounting
