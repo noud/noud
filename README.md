@@ -55,7 +55,7 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
 - [Zoho](https//www.zoho.com/developer/rest-api.html)
 # Service containers
 - Search
-    - [Kibana](http://elastic.co/kibana)[🌐](http://localhost:5601) [🔍Elasticsearch](http://elastic.co) [Dejavu](http://opensource.appbase.io/dejavu)[🌐](http://localhost:1358) [ManifoldCF](http://manifoldcf.apache.org)
+    - [Kibana](http://elastic.co/kibana)[🌐](http://localhost:5601) [🔍Elasticsearch](http://elastic.co) [Dejavu](http://opensource.appbase.io/dejavu)[🌐](http://localhost:1358) [ManifoldCF](http://manifoldcf.apache.org)[🌐](http://localhost:8345/mcf-crawler-ui)
 - Cashing
     - [Memcached](http://memcached.org)
     - [Redis](http://redis.io) [phpRedisAdmin](github.com/erikdubbelboer/phpRedisAdmin)
