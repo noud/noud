@@ -7,7 +7,7 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
       | code generation | programmed  | 
 ```
 # [😷MouthMask](http://github.com/noud/mouth-mask)
-# 🖥️React
+# React
 - 🖥️PWA
     - [React admin OpenAPI](https://github.com/noud/api-platform-react-admin) [Symfony bundles](http://github.com/noud?tab=repositories&q=api-platform-) on [Packagist](http://packagist.org/users/noud/packages/?query=noud%2Fapi-platform-)
     - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST JSON OpenAPI Laravel](http://packagist.org/packages/noud/laravel-api-platform) using [👮‍♀️POLITIE API](http://packagist.org/packages/noud/politie-open-data-api)
