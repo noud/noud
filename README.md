@@ -85,4 +85,3 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
     - [APT](http://en.wikipedia.org/wiki/APT_(software))
         - [Debian 10](http://debian.org) [iso](http://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.4.0-amd64-netinst.iso)
         - [Ubuntu focal](http://ubuntu.com) [iso](http://releases.ubuntu.com/20.04/ubuntu-20.04-live-server-amd64.iso)
-# [👨‍💻noud](http://github.com/noud)
