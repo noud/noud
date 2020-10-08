@@ -41,7 +41,9 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
 - [intuit](http://intuit.com)
     - [QuickBooks](http://quickbooks.intuit.com)
         <!-- - [QuickBooks API PHP SDK](http://github.com/intuit/QuickBooks-V3-PHP-SDK) -->
-- [UNIT4 Multivers](http://api.online.unit4.nl/V18/Documentation)
+- [Unit4](http://unit4bedrijfssoftware.nl)
+    - [Multivers](http://unit4bedrijfssoftware.nl/oplossingen/boekhouden/unit4-multivers)[📄](http://api.online.unit4.nl/V18)
+    - [HR & Salaris Gemak](http://unit4bedrijfssoftware.nl/oplossingen/personeelsadministratie-salarisverwerking/hr-salaris-gemak-bedrijfsleven)
 - [WeFact](http://www.wefact.nl)
     <!-- - [PHP Library for WeFact](http://github.com/imbue/wefact-api-php)
     - [phpWeFact](http://github.com/ddgc/phpWeFact) -->
