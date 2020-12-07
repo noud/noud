@@ -73,8 +73,8 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
     - [SQS](http://aws.amazon.com/sqs)[🌐](http://localhost:9325)
     - [RabbitMQ](http://rabbitmq.com)[🌐](http://localhost:15672)
 - 📧mail
-    - [MailCatcher](http://mailcatcher.me)[🌐](http://localhost:1080)
-    - [MailHog](http://github.com/mailhog/MailHog)
+    - [MailCatcher](http://mailcatcher.me)
+    - [MailHog](http://github.com/mailhog/MailHog)[🌐](http://localhost:8025)
 - [🐳Docker](http://docker.com)[🌐](http://localhost:8754)
 # [Ansible](http://www.ansible.com) install environments
 - [Python](http://python.org) ([pip](http://pypi.org/project/pip))
