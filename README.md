@@ -71,7 +71,7 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
 - [Message queu](http://en.wikipedia.org/wiki/Message_queue)[ing service
 ](http://en.wikipedia.org/wiki/Message_queuing_service) [broker](http://en.wikipedia.org/wiki/Message_broker)
     - [Beanstalkd](http://beanstalkd.github.io) [Beanstalk console](http://github.com/ptrofimov/beanstalk_console)[🌐](http://localhost:2080)
-    - [SQS](http://aws.amazon.com/sqs)[🌐](http://localhost:9325)
+    - [Amazon Simple Queue Service (Amazon SQS)](http://aws.amazon.com/sqs)[🌐](http://localhost:9325)
     - [RabbitMQ](http://rabbitmq.com)[🌐](http://localhost:15672)
     - [Redis](http://redis.io) [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin)[🌐](http://localhost:9987)
 - 📧mail
