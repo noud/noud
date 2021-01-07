@@ -8,12 +8,11 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
 ```
 # [😷MouthMask](http://github.com/noud/mouth-mask)
 # React
-- BooksReviews [📱Native](http://github.com/noud/react-native-openapi-api-platform-demo) and [🖥️PWA](http://github.com/noud/react-openapi-api-platform-demo) from
+- BooksReviews [📱Native](http://github.com/noud/react-native-openapi-api-platform-demo), [🖥️PWA](http://github.com/noud/react-openapi-api-platform-demo) and [🔧React admin](http://github.com/noud/api-platform-react-admin) from APIs:
     - OpenAPI REST JSON-LD Hydra ([Symfony](http://github.com/noud/gripp_symfony) [bundles](http://packagist.org/users/noud/packages/?query=noud%2Fapi-platform-))
     - [Swagger REST JSON (Laravel)](http://packagist.org/packages/noud/laravel-api-platform) 
 - 🖥️PWA
     - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) using [👮‍♀️POLITIE API](http://packagist.org/packages/noud/politie-open-data-api)
-    - [React admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [JSON-RPC API](http://github.com/noud/gripp_api)
     - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [SaaS Laravel](http://github.com/noud/saas)
 - SPA
     - [💱CurrencyConverter API](http://github.com/noud/CurrencyConverter-SaaS)s
@@ -53,7 +52,7 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
     - [invoicing](http://xero.com/features-and-tools/accounting-software/invoicing)
     - [reporting](http://xero.com/features-and-tools/accounting-software/financial-reporting)
 - [Zoho](https//www.zoho.com/developer/rest-api.html)
-# Service containers
+# 🧰Service containers
 - Search
     - [Kibana](http://elastic.co/kibana)[🌐](http://localhost:5601) [🔍Elasticsearch](http://elastic.co) [Dejavu](http://opensource.appbase.io/dejavu)[🌐](http://localhost:1358) [ManifoldCF](http://manifoldcf.apache.org)[🌐](http://localhost:8345/mcf-crawler-ui)
 - Cashing
