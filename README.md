@@ -7,22 +7,18 @@ users | programmed &    | analyzed &  | 🌐 github.com/noud
       | code generation | programmed  | 
 ```
 # [😷MouthMask](http://github.com/noud/mouth-mask)
-# React.js
+# React
+- Books [📱Native](http://github.com/noud/react-native-openapi-api-platform-demo) and [🖥️PWA](http://github.com/noud/react-openapi-api-platform-demo) from OpenAPI REST JSON-LD Hydra
 - 🖥️PWA
+    - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) from [Swagger REST JSON (Laravel)](http://packagist.org/packages/noud/laravel-api-platform) using [👮‍♀️POLITIE API](http://packagist.org/packages/noud/politie-open-data-api)
+    - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [OpenAPI REST JSON-LD Hydra (Symfony)](http://github.com/noud/gripp_symfony) using [JSON-RPC API](http://github.com/noud/gripp_api)
     - [React admin OpenAPI](https://github.com/noud/api-platform-react-admin) [Symfony bundles](http://github.com/noud?tab=repositories&q=api-platform-) on [Packagist](http://packagist.org/users/noud/packages/?query=noud%2Fapi-platform-)
-    - [PolicePoints](http://github.com/noud/react-redux-openapi-politie) to [REST JSON OpenAPI Laravel](http://packagist.org/packages/noud/laravel-api-platform) using [👮‍♀️POLITIE API](http://packagist.org/packages/noud/politie-open-data-api)
     - OAuth2 [front end](http://github.com/noud/frontend) to GraphQL [SaaS Laravel](http://github.com/noud/saas)
-    - [admin](http://github.com/noud/react-admin-rest-openapi-gripp) to [REST JSON-LD Hydra Symfony](http://github.com/noud/gripp_symfony) using [JSON-RPC API](http://github.com/noud/gripp_api)
-- 📱SPA
+- SPA
     - [💱CurrencyConverter API](http://github.com/noud/CurrencyConverter-SaaS)s
     - [📺TVshow API](http://github.com/noud/cra-tv-show)
     - [🍩DoughnutChart](http://github.com/noud/cra-chartjs)
-# PHP MVC
-- [SaaS billing](http://github.com/noud/laravel-billing)
-    - [CakePHP](http://cakephp.org)
-    - [Laravel](http://laravel.com)
-    - [Symfony](http://symfony.com)
-    - [Yii](http://yiiframework.com)
+# [SaaS billing](http://github.com/noud/laravel-billing)
 # API
 ## eCommerce
 - [Magento](https://magento.com/products/magento-open-source)
