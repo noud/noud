@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | React | React | React | project | sub-project | sub-project |
 | Native | PWA | admin |  |  |  |
-|  | [✔️](http://github.com/noud/react-redux-openapi-politie) |  | 👮‍♀️POLITIE |  |  |
+|  | [✔️](http://github.com/noud/react-openapi-politie) |  | 👮‍♀️POLITIE |  |  |
 |  |  | [✔️](http://github.com/noud/api-platform-react-admin) | API Platform |  |  |
 |  |  |  |  | doc | offers products |
 | [✔️](http://github.com/noud/react-native-openapi-api-platform-demo) | [✔️](http://github.com/noud/react-openapi-api-platform-demo) |  |  | demo (books reviews) |  |
