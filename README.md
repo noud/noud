@@ -35,15 +35,16 @@
 | language | [nouns](http://github.com/noud/noun-db) |
 | --- | --- |
 ### SEO
-#### demo
+#### [demo](http://github.com/noud/api-platform-book-review-bundle)
 | books | reviews |
 | --- | --- |
 
 | ISBN |
 | --- |
 | API |
-#### doc
-| offerss | products |
+#### [doc](https://github.com/noud?tab=repositories&q=api-platform-+bundle)
+##### [offers products](https://github.com/noud/api-platform-product-offer-bundle)
+| offers | products |
 | --- | --- |
 |  | EAN |
 |  | API |
