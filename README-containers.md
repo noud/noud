@@ -1,0 +1,22 @@
+# 🧰Service containers
+- Search
+    - [Kibana](http://elastic.co/kibana)[🌐](http://localhost:5601) [🔍Elasticsearch](http://elastic.co) [Dejavu](http://opensource.appbase.io/dejavu)[🌐](http://localhost:1358) [ManifoldCF](http://manifoldcf.apache.org)[🌐](http://localhost:8345/mcf-crawler-ui)
+- Cashing
+    - [Memcached](http://memcached.org)
+- Databases
+    - [SQL](http://en.wikipedia.org/wiki/SQL)
+        - [PhpMyAdmin](http://phpmyadmin.net)[🌐](http://localhost:8081)
+            - [MariaDB](http://mariadb.org)
+            - [MySQL](http://mysql.com)
+        - [PostgreSQL](http://postgresql.org) [pgAdmin](http://pgadmin.org)[🌐](http://localhost:5050)
+    - [MongoDB](http://mongodb.com) [Nosqlclient](http://nosqlclient.com) 
+- [Message queu](http://en.wikipedia.org/wiki/Message_queue)[ing service
+](http://en.wikipedia.org/wiki/Message_queuing_service) [broker](http://en.wikipedia.org/wiki/Message_broker)
+    - [Beanstalkd](http://beanstalkd.github.io) [Beanstalk console](http://github.com/ptrofimov/beanstalk_console)[🌐](http://localhost:2080)
+    - [Amazon Simple Queue Service (Amazon SQS)](http://aws.amazon.com/sqs)[🌐](http://localhost:9325)
+    - [RabbitMQ](http://rabbitmq.com)[🌐](http://localhost:15672)
+    - [Redis](http://redis.io) [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin)[🌐](http://localhost:9987)
+- 📧mail
+    - [MailCatcher](http://mailcatcher.me)
+    - [MailHog](http://github.com/mailhog/MailHog)[🌐](http://localhost:8025)
+- [🐳Docker](http://docker.com)[🌐](http://localhost:8754)
