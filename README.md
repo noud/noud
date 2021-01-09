@@ -27,18 +27,6 @@
 #### [👮‍♀️POLITIE](http://packagist.org/packages/noud/politie-open-data-api)
 | API |
 | --- |
-#### doc
-| offerss | products |
-| --- | --- |
-|  | EAN |
-|  | API |
-#### demo
-| books | reviews |
-| --- | --- |
-
-| ISBN |
-| --- |
-| API |
 ### Generic
 #### GIS
 | API |
@@ -46,5 +34,18 @@
 #### Linguistic
 | language | [nouns](http://github.com/noud/noun-db) |
 | --- | --- |
+### SEO
+#### demo
+| books | reviews |
+| --- | --- |
+
+| ISBN |
+| --- |
+| API |
+#### doc
+| offerss | products |
+| --- | --- |
+|  | EAN |
+|  | API |
 ## [🧰Service containers](http://github.com/noud/noud/blob/master/README-containers.md) by 🐳Docker
 ## [Install environments Python and or OS 🐧Linux or Unix](http://github.com/noud/noud/blob/master/README-OS.md) by Ansible
