@@ -32,10 +32,10 @@
 | API |
 | --- |
 #### Linguistic
-| language | [nouns](http://github.com/noud/noun-db) |
+| language | [nouns](http://github.com/noud/noun-db/blob/master/README.md) |
 | --- | --- |
 ### SEO
-#### [demo](http://github.com/noud/api-platform-book-review-bundle)
+#### [demo](http://github.com/noud/book-review-db/blob/master/README.md)
 | books | reviews |
 | --- | --- |
 
