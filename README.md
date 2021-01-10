@@ -24,7 +24,7 @@
 | --- | --- |
 ## Database
 ### Client
-#### [👮‍♀️POLITIE](http://packagist.org/packages/noud/politie-open-data-api)
+#### [👮‍♀️POLITIE](https://github.com/noud/politie-open-data-api/blob/master/README.md)
 | API |
 | --- |
 ### Generic
