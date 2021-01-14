@@ -13,7 +13,7 @@
 |  | [✔️](http://github.com/noud/laravel-billing/blob/master/README.md) |  |  | 🏢SaaS |  |
 |  | |  |  | [MAC**](http://en.wikipedia.org/wiki/MAC_address) |  |
 |  | |  |  | [SKU](http://en.wikipedia.org/wiki/Stock_keeping_unit) |  |
-|  |  |  | [nouns inflector](http://github.com/noud/nouns-laravel) |  |  |
+|  |  |  | [nouns inflector](http://github.com/noud/nouns-laravel/blob/master/README.md) |  |  |
 # Services on site
 ## APSs
 | API | API | API |
