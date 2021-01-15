@@ -26,30 +26,23 @@
 | --- | --- |
 ## Database
 ### Client
-#### [👮‍♀️POLITIE](https://github.com/noud/politie-open-data-api/blob/master/README.md)
-| API |
-| --- |
+#### [👮‍♀️POLITIE](https://github.com/noud/politie-open-data-api/blob/master/README.md) API
 ### Generic
-#### GIS
-| API |
-| --- |
+#### GIS API
 #### Linguistic
-| language | [nouns](http://github.com/noud/nouns-db/blob/master/README.md) |
-| --- | --- |
-### SEO
+- language
+- [nouns](http://github.com/noud/nouns-db/blob/master/README.md)
+### [SEO](http://github.com/noud/seo/blob/master/readme.md)
 #### [demo](http://github.com/noud/book-review-db/blob/master/README.md)
 | books | reviews |
 | --- | --- |
+| [ISBN*](http://en.wikipedia.org/wiki/International_Standard_Book_Number) API |  |
 
-| [ISBN*](http://en.wikipedia.org/wiki/International_Standard_Book_Number) |
-| --- |
-| API |
 #### [doc](https://github.com/noud?tab=repositories&q=api-platform-+bundle)
 ##### [offers products](https://github.com/noud/api-platform-product-offer-bundle)
 | offers | products |  |
 | --- | --- | --- |
-|  | [EAN*](https://en.wikipedia.org/wiki/International_Article_Number) | [GTIN*](https://en.wikipedia.org/wiki/Global_Trade_Item_Number) |
-|  | API | API |
+|  | [EAN*](https://en.wikipedia.org/wiki/International_Article_Number) API| [GTIN*](https://en.wikipedia.org/wiki/Global_Trade_Item_Number) |
 
 ## [🧰Service containers](http://github.com/noud/noud/blob/master/README-containers.md) by 🐳Docker
 ## [Install environments Python / 🐧Linux / Unix](http://github.com/noud/noud/blob/master/README-OS.md) by Ansible
