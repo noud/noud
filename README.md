@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | React | React | React | project | sub-project | sub-project |
 | Native | PWA | admin |  |  |  |
-|  | [✔️](http://github.com/noud/react-openapi-politie/blob/master/README.md) |  | 👮‍♀️POLITIE |  |  |
+|  | [✔️](http://github.com/noud/politie-react-swagger/blob/master/README.md) |  | 👮‍♀️POLITIE |  |  |
 |  |  | [✔️](http://github.com/noud/api-platform-react-admin/blob/master/README.md) | API Platform |  |  |
 |  |  |  |  | doc | offers products |
 | [✔️](http://github.com/noud/react-native-openapi-api-platform-demo/blob/master/README.md) | [✔️](http://github.com/noud/react-openapi-api-platform-demo/blob/master/README.md) |  |  | demo (books reviews) |  |
