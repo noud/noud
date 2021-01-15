@@ -1,5 +1,5 @@
 # Architecture
-# [😷](http://github.com/noud/mouth-mask/blob/master/README.md)Clients
+# [😷](http://github.com/noud/mouth-mask/blob/master/README.md)Front ends
 | 📱Mobile | 🖥️Web | 🔧admin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | React | React | React | project | sub-project | sub-project |
@@ -15,17 +15,17 @@
 |  | |  |  | [SKU](http://en.wikipedia.org/wiki/Stock_keeping_unit) |  |
 |  |  |  | [nouns inflector](http://github.com/noud/nouns-laravel/blob/master/README.md) |  |  |
 # Services on site
-## APSs
+## API end-points for front ends from back ends
 | API | API | API |
 | --- | --- | --- |
-|  | RESTful | RESTful |
+|  | RESTful | REST |
 | [GraphQL](http://github.com/noud/saas/blob/master/README.md) | OpenAPI | Swagger |
 | JSON | JSON-LD Hydra | JSON |
-## Application servers
+## Back end application servers
 | [Laravel](http://packagist.org/packages/noud/laravel-api-platform/blob/master/README.md) | [Symfony](http://github.com/noud/gripp_symfony/blob/master/README.md) [bundles](http://packagist.org/users/noud/packages/?query=noud%2Fapi-platform-) |
 | --- | --- |
-## Database
-### Client
+## Database and consuming APIs
+### Front end data need
 #### [👮‍♀️POLITIE](https://github.com/noud/politie-open-data-api/blob/master/README.md) API
 ### Generic
 #### GIS API
@@ -44,7 +44,7 @@
 | --- | --- | --- |
 |  | [EAN*](https://en.wikipedia.org/wiki/International_Article_Number) API| [GTIN*](https://en.wikipedia.org/wiki/Global_Trade_Item_Number) |
 
-## [🧰Service containers](http://github.com/noud/noud/blob/master/README-containers.md) by 🐳Docker
+## [Containers with 🧰standard services and there APIs](http://github.com/noud/noud/blob/master/README-containers.md) by 🐳Docker
 ## [Install environments Python / 🐧Linux / Unix](http://github.com/noud/noud/blob/master/README-OS.md) by Ansible
 - [DHCP](http://github.com/noud/infra-dhcp/blob/master/README.md) scaling
 - [DNS](http://github.com/noud/infra-dns/blob/master/README.md) cloud, container, bare metal and virtual hosts, networks.
