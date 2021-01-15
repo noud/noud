@@ -48,6 +48,7 @@
 ## [Install environments Python / 🐧Linux / Unix](http://github.com/noud/noud/blob/master/README-OS.md) by Ansible
 - [DHCP](http://github.com/noud/infra-dhcp/blob/master/README.md) scaling
 - [DNS](http://github.com/noud/infra-dns/blob/master/README.md) cloud, container, bare metal and virtual hosts, networks.
+## 🧑🏻‍💻[CV Résumé](https://github.com/noud/noud/blob/master/resume/Noud_de_Brouwer_-_%F0%9F%A7%91%F0%9F%8F%BB___%F0%9F%92%BB_JavaScript_PHP_resume.pdf) (but in [doc](https://github.com/noud/noud/blob/master/resume/Noud_de_Brouwer_-_%F0%9F%A7%91%F0%9F%8F%BB___%F0%9F%92%BB_JavaScript_PHP_resume.doc) or [docx](https://github.com/noud/noud/blob/master/resume/Noud_de_Brouwer_-_%F0%9F%A7%91%F0%9F%8F%BB___%F0%9F%92%BB_JavaScript_PHP_resume.docx)), [coverletter](https://github.com/noud/noud/blob/master/resume/Noud_de_Brouwer_-_%F0%9F%A7%91%F0%9F%8F%BB___%F0%9F%92%BB_JavaScript_PHP_coverletter.docx) and [vCard](https://github.com/noud/noud/blob/master/resume/Noud_de_Brouwer.vcf)
 
 **) International identifiier
 
