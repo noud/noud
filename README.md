@@ -52,7 +52,10 @@
 |  | API | API |
 
 ## [🧰Service containers](http://github.com/noud/noud/blob/master/README-containers.md) by 🐳Docker
-## [Install environments Python and or OS 🐧Linux or Unix](http://github.com/noud/noud/blob/master/README-OS.md) by Ansible
+## [Install environments Python / 🐧Linux / Unix](http://github.com/noud/noud/blob/master/README-OS.md) by Ansible
+- [DHCP](http://github.com/noud/infra-dhcp/blob/master/README.md) scaling
+- [DNS](http://github.com/noud/infra-dns/blob/master/README.md) cloud, container, bare metal and virtual hosts, networks.
+
 **) International identifiier
 
 *) International numbers
