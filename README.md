@@ -1,4 +1,4 @@
-# Projects big or smalle welkome again.
+# Projects big or small welcome.
 # Architecture
 # [😷](http://github.com/noud/mouth-mask/blob/master/README.md)Front ends
 | 📱Mobile | 🖥️Web | 🔧admin | static |   |  |  |
